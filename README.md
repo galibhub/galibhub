@@ -39,8 +39,8 @@
 ## 📂 Featured Projects
 
 - 🌐 **Portfolio Website** – Built with React + Tailwind *(Coming soon)*  
-- 🛒 **E-commerce App** – Full MERN stack with authentication and cart system  
-- 🤖 **ML Projects** – Starting with regression, classification & real-world datasets
+- 🛒 **E-commerce App** – Full MERN stack with authentication and cart system *(Coming soon)* 
+- 🤖 **ML Projects** – Starting with regression, classification & real-world datasets *(Coming soon)*
 
 ---
 
