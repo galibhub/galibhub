@@ -2,7 +2,7 @@
 
 🎓 **BSc in CSE** @ Daffodil International University  
 💻 **MERN Stack Developer** (Learning @ Programming Hero)  
-🤖 **AI/ML Enthusiast** (Starting soon with Python & TensorFlow)  
+🤖 **AI/ML Enthusiast** (Learning @ Phitron – AI/ML Expert Journey)  
 📈 **Strong foundation in**: C, C++, Java, Data Structures & Algorithms  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ibrahim-ahmed-galib/)  
 🌐 Portfolio: Coming Soon...
@@ -29,18 +29,36 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java)
 ![DSA](https://img.shields.io/badge/-Data_Structures_and_Algorithms-ff8c00)
 
-### 🧪 Upcoming Learning
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn)
+---
+
+## 🤖 AI/ML Learning Journey (Phitron)
+
+🚀 **Becoming an AI/ML Expert with Phitron**  
+Currently preparing for a **5–6 month intensive program** in **Machine Learning, Deep Learning & LLMs**, guided by top university faculties and industry experts.  
+
+📌 **What I’ll Gain**  
+- 🧠 In-depth skills in **Python, Math, ML, DL & Transformers**  
+- 🎓 A structured **CSE thesis** aligned with global university standards  
+- 🖋 Hands-on mentorship to **publish a research paper** (IEEE/Springer)  
+- 🌍 Strong academic & professional profile for **higher studies abroad**  
+- 💼 Build **real-world AI/ML projects** (NLP, Computer Vision, Generative AI, etc.)  
+
+📂 **Two Learning Tracks**  
+- **🔬 Thesis + Research Publication** → Academic excellence & MS/PhD prep  
+- **💻 Professional AI/ML Projects** → Job interviews, freelancing & startups  
+
+✨ **Why Phitron?**  
+- 👨‍🏫 Daily mentorship & live support  
+- 📄 Research publication guidance  
+- 🚀 Real-world AI/ML projects for career & higher studies  
 
 ---
 
 ## 📂 Featured Projects
 
 - 🌐 **Portfolio Website** – Built with React + Tailwind *(Coming soon)*  
-- 🛒 **E-commerce App** – Full MERN stack with authentication and cart system *(Coming soon)* 
-- 🤖 **ML Projects** – Starting with regression, classification & real-world datasets *(Coming soon)*
+- 🛒 **E-commerce App** – Full MERN stack with authentication and cart system *(Coming soon)*  
+- 🤖 **AI/ML Projects** – Regression, classification & real-world datasets *(Upcoming in Phitron journey)*  
 
 ---
 
@@ -54,10 +72,10 @@
 
 ## 🎯 Goals
 
-- ✅ Become job-ready in Web Development (Frontend + Backend)
-- 🔜 Start hands-on AI/ML with Python & TensorFlow
-- 🚀 Build and contribute to open-source projects
-- 🧠 Strengthen problem solving with DSA & LeetCode
+- ✅ Become job-ready in Web Development (Frontend + Backend)  
+- 🔜 Complete AI/ML Expert Journey with Phitron  
+- 🚀 Build and contribute to open-source projects  
+- 🧠 Strengthen problem solving with DSA & LeetCode  
 
 ---
 
