@@ -1,8 +1,8 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ibrahim%20Ahmed%20Galib&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![Banner](PASTE_YOUR_BANNER_IMAGE_LINK_HERE)
 
 ## 👋 Hi, I'm Ibrahim Ahmed Galib  
-### 💻 MERN Stack Web Developer | Aspiring AI/ML Engineer  
+### 💻 MERN Stack Web Developer  
 
 📍 Dhaka, Bangladesh  
 📧 Email: ibrahimgalib00@gmail.com  
@@ -10,9 +10,9 @@
 ---
 
 ## 👨‍💻 About Me
-I am a Computer Science student with a strong interest in web development and artificial intelligence.  
-Currently learning MERN stack development and building real-world projects.  
-I enjoy solving problems, learning new technologies, and improving my development skills every day.
+I am a passionate MERN Stack Web Developer with a strong foundation in computer science.  
+I enjoy building full-stack web applications using modern technologies.  
+Currently, I am focused on improving my backend skills and building scalable projects.
 
 ---
 
@@ -25,9 +25,9 @@ I enjoy solving problems, learning new technologies, and improving my developmen
 
 ## 🔭 Current Activities
 - 🌱 Exploring **Next.js**
-- 🛠️ Working on **MERN Stack Projects**
-- 🤖 Learning **AI & Machine Learning**
-- 📈 Practicing **DSA & Problem Solving**
+- 🛠️ Building **Full Stack MERN Projects**
+- ⚙️ Working with REST APIs and databases
+- 🧠 Practicing **Problem Solving & DSA**
 
 ---
 
@@ -45,8 +45,24 @@ I enjoy solving problems, learning new technologies, and improving my developmen
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-username
+- 💼 LinkedIn: https://www.linkedin.com/in/ibrahim-ahmed-galib/
 - 💻 GitHub: https://github.com/galibhub
+
+---
+
+## 📌 Featured Projects
+
+### 🎓 E-Tutor Platform (Client)
+🔗 https://github.com/galibhub/e-tuitor-client  
+A MERN-based tuition management platform with authentication and role-based access.
+
+### 🛒 Export–Import Management System (Client)
+🔗 https://github.com/galibhub/export-import-client  
+A client-side web application for managing export–import workflows.
+
+### 🦸 Hero App
+🔗 https://github.com/galibhub/hero-app  
+A JavaScript-based project demonstrating core frontend concepts.
 
 ---
 
@@ -60,9 +76,9 @@ I enjoy solving problems, learning new technologies, and improving my developmen
 ---
 
 ## 🎯 Goals
-- ✅ Become job-ready in **Full Stack Web Development**
-- 🔜 Build strong **AI/ML foundations**
-- 🚀 Create real-world projects
-- 🧠 Improve problem-solving skills
+- ✅ Become job-ready in **MERN Stack Development**
+- 🚀 Build scalable real-world applications
+- 🧠 Strengthen problem-solving skills
+- 🌱 Continue learning modern web technologies
 
-> *"Consistency is more important than perfection. Keep building 🚀"*
+> *“Consistency is more important than perfection. Keep building 🚀”*
