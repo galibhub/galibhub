@@ -10,9 +10,9 @@
 ---
 
 ## 👨‍💻 About Me
-I am a passionate MERN Stack Web Developer with a strong foundation in computer science.  
-I enjoy building modern, scalable full-stack web applications.  
-Currently focused on strengthening backend development and building real-world MERN projects.
+I am a MERN Stack Web Developer with a strong foundation in computer science.
+I enjoy developing modern and scalable full-stack web applications.
+Currently, I am strengthening my backend skills while exploring AI and Machine Learning.
 
 ---
 
