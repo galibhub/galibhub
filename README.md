@@ -1,5 +1,6 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,4,6,12&height=220&section=header&text=Ibrahim%20Ahmed%20Galib&fontSize=40&fontColor=ffffff&desc=MERN%20Stack%20Web%20Developer&descSize=18&descAlign=60&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=230&section=header&text=Ibrahim%20Ahmed%20Galib&fontSize=40&fontColor=ffffff&desc=Building%20with%20MERN%20%7C%20Next.js%20%7C%20AI&descSize=17&descAlign=60&animation=fadeIn)
+
 
 ## 👋 Hi, I'm Ibrahim Ahmed Galib  
 ### 💻 MERN Stack Web Developer  
