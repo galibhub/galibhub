@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=230&section=header&text=Ibrahim%20Ahmed%20Galib&fontSize=42&fontColor=ffffff&desc=MERN%20%7C%20Next.js%20%7C%20AI%2FML&descSize=17&descAlign=60&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=230&section=header&text=Ibrahim%20Ahmed%20Galib&fontSize=40&fontColor=ffffff&desc=MERN%20%7C%20Artificial%20Intelligence%20%7C%20Machine%20Learning&descSize=16&descAlign=60&animation=fadeIn)
 
 
 ## 👋 Hi, I'm Ibrahim Ahmed Galib  
