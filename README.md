@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://i.ibb.co/h1TBZYgV/Gemini-Generated-Image-r2udqjr2udqjr2ud.png)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,4,6,12&height=220&section=header&text=Ibrahim%20Ahmed%20Galib&fontSize=40&fontColor=ffffff&desc=MERN%20Stack%20Web%20Developer&descSize=18&descAlign=60&animation=fadeIn)
 
 ## 👋 Hi, I'm Ibrahim Ahmed Galib  
 ### 💻 MERN Stack Web Developer  
