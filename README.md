@@ -27,7 +27,7 @@ Currently focused on strengthening backend development and building real-world M
 - 🌱 Exploring **Next.js**
 - 🛠️ Building **Full Stack MERN Applications**
 - ⚙️ Working with REST APIs & databases
-- 🧠 Practicing **DSA & Problem Solving**
+- 🧠 Learning **AI and Machine Learning**
 
 ---
 
