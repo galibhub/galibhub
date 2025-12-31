@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](PASTE_YOUR_BANNER_IMAGE_LINK_HERE)
+![Banner](https://i.ibb.co/h1TBZYgV/Gemini-Generated-Image-r2udqjr2udqjr2ud.png)
 
 ## 👋 Hi, I'm Ibrahim Ahmed Galib  
 ### 💻 MERN Stack Web Developer  
@@ -11,8 +11,8 @@
 
 ## 👨‍💻 About Me
 I am a passionate MERN Stack Web Developer with a strong foundation in computer science.  
-I enjoy building full-stack web applications using modern technologies.  
-Currently, I am focused on improving my backend skills and building scalable projects.
+I enjoy building modern, scalable full-stack web applications.  
+Currently focused on strengthening backend development and building real-world MERN projects.
 
 ---
 
@@ -25,9 +25,9 @@ Currently, I am focused on improving my backend skills and building scalable pro
 
 ## 🔭 Current Activities
 - 🌱 Exploring **Next.js**
-- 🛠️ Building **Full Stack MERN Projects**
-- ⚙️ Working with REST APIs and databases
-- 🧠 Practicing **Problem Solving & DSA**
+- 🛠️ Building **Full Stack MERN Applications**
+- ⚙️ Working with REST APIs & databases
+- 🧠 Practicing **DSA & Problem Solving**
 
 ---
 
@@ -54,7 +54,7 @@ Currently, I am focused on improving my backend skills and building scalable pro
 
 ### 🎓 E-Tutor Platform (Client)
 🔗 https://github.com/galibhub/e-tuitor-client  
-A MERN-based tuition management platform with authentication and role-based access.
+A MERN-based tuition management platform with authentication and role-based access control.
 
 ### 🛒 Export–Import Management System (Client)
 🔗 https://github.com/galibhub/export-import-client  
@@ -62,7 +62,7 @@ A client-side web application for managing export–import workflows.
 
 ### 🦸 Hero App
 🔗 https://github.com/galibhub/hero-app  
-A JavaScript-based project demonstrating core frontend concepts.
+A JavaScript-based frontend project demonstrating core web concepts.
 
 ---
 
@@ -78,7 +78,7 @@ A JavaScript-based project demonstrating core frontend concepts.
 ## 🎯 Goals
 - ✅ Become job-ready in **MERN Stack Development**
 - 🚀 Build scalable real-world applications
-- 🧠 Strengthen problem-solving skills
+- 🧠 Improve problem-solving skills
 - 🌱 Continue learning modern web technologies
 
 > *“Consistency is more important than perfection. Keep building 🚀”*
