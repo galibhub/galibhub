@@ -1,5 +1,7 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=230&section=header&text=Ibrahim%20Ahmed%20Galib&fontSize=40&fontColor=ffffff&desc=MERN%20%7C%20Artificial%20Intelligence%20%7C%20Machine%20Learning&descSize=16&descAlign=60&animation=fadeIn)
+<p align="center">
+  <img src="./banner.png" alt="GitHub Banner" width="100%" />
+</p>
 
 
 ## 👋 Hi, I'm Ibrahim Ahmed Galib  
