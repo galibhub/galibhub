@@ -3,9 +3,9 @@
   <img src="./banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
-<!-- ======================= COLORFUL NAME ======================= -->
+<!-- ======================= COLORFUL NAME (DARK-MODE SAFE) ======================= -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Ibrahim%20Ahmed%20Galib&fontSize=44&fontColor=gradient&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&text=Ibrahim%20Ahmed%20Galib&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </h1>
 
 <h3 align="center">💻 MERN Stack Web Developer</h3>
@@ -90,7 +90,7 @@
 
 ### 🛒 Export–Import Management System (Client)
 🔗 https://github.com/galibhub/export-import-client  
-📝 Client-side application for managing export-import workflows.
+📝 Client-side application for managing export–import workflows.
 
 ---
 
@@ -100,11 +100,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
-<!-- ======================= GITHUB STATS ======================= -->
+<!-- ======================= GITHUB STATS (STABLE) ======================= -->
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galibhub&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=galibhub&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
