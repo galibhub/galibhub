@@ -3,15 +3,42 @@
   <img src="./banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
-<!-- ======================= INTRO ======================= -->
-<h1 align="center">Hi 👋, I'm <span style="color:#38BDF8">Ibrahim Ahmed Galib</span></h1>
-<h3 align="center">💻 MERN Stack Web Developer | Backend-Focused</h3>
+<!-- ======================= LIVE TYPING ANIMATION ======================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code
+    &weight=600
+    &size=34
+    &pause=1000
+    &color=38BDF8
+    &center=true
+    &vCenter=true
+    &width=750
+    &lines=Hi+👋+I'm+Ibrahim+Ahmed+Galib;
+    MERN+Stack+Web+Developer;
+    Backend+Focused+Developer;
+    Exploring+Next.js+%26+AI+%2F+ML" 
+    alt="Typing SVG" />
+</p>
+
+<!-- ======================= GRADIENT NAME ======================= -->
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?
+  type=transparent
+  &text=Ibrahim%20Ahmed%20Galib
+  &fontSize=42
+  &fontColor=gradient
+  &animation=fadeIn" />
+</h1>
+
+<h3 align="center">💻 MERN Stack Web Developer</h3>
 
 <p align="center">
   📍 Dhaka, Bangladesh &nbsp; | &nbsp;
   📧 <a href="mailto:ibrahimgalib00@gmail.com">ibrahimgalib00@gmail.com</a>
 </p>
 
+<!-- ======================= SOCIAL BADGES ======================= -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-ahmed-galib/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -21,37 +48,41 @@
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
+<!-- ======================= ABOUT ======================= -->
 ## 👨‍💻 About Me
 ✨ I’m a **MERN Stack Web Developer** with a strong **computer science foundation**.  
 ✨ I enjoy building **modern, scalable, and production-ready web applications**.  
-✨ Currently, I’m **deepening backend expertise** while exploring **AI & Machine Learning**.
+✨ Currently strengthening **backend skills** while exploring **AI & Machine Learning**.
 
-> 💡 I believe in *learning by building* — real projects over tutorials.
+> 💡 *Learning by building real projects — not just tutorials.*
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
+<!-- ======================= EDUCATION ======================= -->
 ## 🎓 Academic Background
 🎓 **BSc in Computer Science & Engineering**  
-📍 *Daffodil International University*
+🏫 *Daffodil International University*
 
-📚 Core Knowledge:
+📚 Strong foundation in:
 - C, C++
 - Java
 - Data Structures & Algorithms
 - Problem Solving
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
+<!-- ======================= CURRENT WORK ======================= -->
 ## 🔭 What I’m Doing Now
-- 🌱 Learning **Next.js** & advanced React patterns
+- 🌱 Learning **Next.js**
 - 🛠️ Building **Full-Stack MERN Applications**
-- ⚙️ Designing **REST APIs & Databases**
-- 🧠 Exploring **AI & Machine Learning fundamentals**
+- ⚙️ Working with **REST APIs & Databases**
+- 🧠 Exploring **AI & Machine Learning**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
+<!-- ======================= TECH STACK ======================= -->
 ## 🛠️ Tech Stack
 
 ### 🚀 Frontend
@@ -69,31 +100,30 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
+<!-- ======================= PROJECTS ======================= -->
 ## 📌 Featured Projects
 
 ### 🎓 E-Tutor Platform (Client)
 🔗 https://github.com/galibhub/e-tuitor-client  
-📝 A **MERN-based tuition management platform** featuring:
-- Authentication & authorization
-- Role-based access control
-- Real-world CRUD workflows
+📝 MERN-based tuition management platform with authentication & role-based access.
 
 ---
 
 ### 🛒 Export–Import Management System (Client)
 🔗 https://github.com/galibhub/export-import-client  
-📝 A **client-side MERN application** for managing export–import operations efficiently.
+📝 Client-side application for managing export-import workflows.
 
 ---
 
 ### 🦸 Hero App
 🔗 https://github.com/galibhub/hero-app  
-📝 A **JavaScript-focused frontend project** demonstrating core web concepts.
+📝 JavaScript frontend project demonstrating core web concepts.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
+<!-- ======================= GITHUB STATS ======================= -->
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -105,15 +135,18 @@
   <img src="https://streak-stats.demolab.com?user=galibhub&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="165"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=galibhub&theme=onedark&no-frame=true&row=1"/>
+</p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+<!-- ======================= GOALS ======================= -->
 ## 🎯 Goals
 - ✅ Become **job-ready** in MERN Stack Development
 - 🚀 Build **scalable real-world applications**
-- 🧠 Improve **problem-solving & system thinking**
-- 🌱 Continuously learn **modern web technologies**
-
----
+- 🧠 Improve **problem-solving & system design**
+- 🌱 Keep learning **modern web technologies**
 
 <p align="center">
   <i>“Consistency is more important than perfection. Keep building 🚀”</i>
