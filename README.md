@@ -104,15 +104,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=galibhub&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-  
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=galibhub&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=galibhub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
   <br/><br/>
 
   <table>
@@ -128,7 +120,6 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" width="100%"/>
-
 
 <!-- ======================= GOALS ======================= -->
 ## 🎯 Goals
