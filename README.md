@@ -103,13 +103,31 @@
 <!-- ======================= GITHUB STATS (STABLE) ======================= -->
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/galibhub?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/followers/galibhub?style=for-the-badge&color=green" />
-  <img src="https://img.shields.io/github/last-commit/galibhub/export-import-client?style=for-the-badge&color=orange" />
-</p>
+<div align="center">
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=galibhub&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
+  
+  <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=galibhub&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
+  
+  <br/><br/>
+
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galibhub&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" height="165" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://streak-stats.demolab.com/?user=galibhub&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Streak" height="165" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" width="100%"/>
 
 
 <!-- ======================= GOALS ======================= -->
