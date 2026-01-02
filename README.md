@@ -3,16 +3,10 @@
   <img src="./banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
-<!-- ======================= LIVE TYPING ANIMATION ======================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Ibrahim+Ahmed+Galib;MERN+Stack+Web+Developer;Backend+Focused+Developer;Exploring+Next.js+%26+AI+%2F+ML" alt="Typing SVG" />
-</p>
-
-<!-- ======================= GRADIENT NAME ======================= -->
+<!-- ======================= COLORFUL NAME ======================= -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Ibrahim%20Ahmed%20Galib&fontSize=42&fontColor=gradient&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Ibrahim%20Ahmed%20Galib&fontSize=44&fontColor=gradient&animation=fadeIn" />
 </h1>
-
 
 <h3 align="center">💻 MERN Stack Web Developer</h3>
 
@@ -110,12 +104,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galibhub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=galibhub&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galibhub&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=galibhub&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galibhub&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=galibhub&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
