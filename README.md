@@ -104,16 +104,23 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galibhub&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=galibhub&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galibhub&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=galibhub&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=galibhub&theme=onedark&no-frame=true&row=1"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=galibhub&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=galibhub&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    height="165"
+  />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
