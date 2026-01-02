@@ -103,27 +103,23 @@
 <!-- ======================= GITHUB STATS (STABLE) ======================= -->
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=galibhub&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=galibhub&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
+  <br/><br/>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=galibhub&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="165"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=galibhub&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    height="165"
-  />
-</p>
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galibhub&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" height="165" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://streak-stats.demolab.com/?user=galibhub&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Streak" height="165" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" width="100%"/>
 
 <!-- ======================= GOALS ======================= -->
 ## 🎯 Goals
