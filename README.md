@@ -5,20 +5,7 @@
 
 <!-- ======================= LIVE TYPING ANIMATION ======================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
-    &weight=600
-    &size=34
-    &pause=1000
-    &color=38BDF8
-    &center=true
-    &vCenter=true
-    &width=750
-    &lines=Hi+👋+I'm+Ibrahim+Ahmed+Galib;
-    MERN+Stack+Web+Developer;
-    Backend+Focused+Developer;
-    Exploring+Next.js+%26+AI+%2F+ML" 
-    alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Ibrahim+Ahmed+Galib;MERN+Stack+Web+Developer;Backend+Focused+Developer;Exploring+Next.js+%26+AI+%2F+ML" alt="Typing SVG" />
 </p>
 
 <!-- ======================= GRADIENT NAME ======================= -->
