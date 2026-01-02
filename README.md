@@ -69,13 +69,16 @@ A JavaScript-based frontend project demonstrating core web concepts.
 
 ---
 
+
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galibhub&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galibhub&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=galibhub&theme=tokyonight)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=galibhub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galibhub&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" height="165" />
+  <img src="https://streak-stats.demolab.com?user=galibhub&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Streak" height="165" />
+</div>
 ---
 
 ## 🎯 Goals
