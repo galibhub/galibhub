@@ -10,13 +10,9 @@
 
 <!-- ======================= GRADIENT NAME ======================= -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?
-  type=transparent
-  &text=Ibrahim%20Ahmed%20Galib
-  &fontSize=42
-  &fontColor=gradient
-  &animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Ibrahim%20Ahmed%20Galib&fontSize=42&fontColor=gradient&animation=fadeIn" />
 </h1>
+
 
 <h3 align="center">💻 MERN Stack Web Developer</h3>
 
