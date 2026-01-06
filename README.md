@@ -21,11 +21,15 @@
     <a href="https://www.linkedin.com/in/ibrahim-ahmed-galib/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
+    <a href="mailto:ibrahimgalib00@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
     <a href="https://github.com/galibhub" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=galibhub&label=Profile%20Views&color=38BDF8&style=for-the-badge"/>
   </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=galibhub&label=Profile%20Views&color=38BDF8&style=flat-square"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" width="100%"/>
@@ -39,7 +43,7 @@
       </p>
       <ul>
         <li>🔭 <b>Currently:</b> Building Full-Stack Apps & Learning Next.js</li>
-        <li>⚙️ <b>Backend:</b> working with REST APIs & Database Design</li>
+        <li>⚙️ <b>Backend:</b> Working with REST APIs & Database Design</li>
         <li>🧠 <b>Interest:</b> Exploring AI & Machine Learning</li>
       </ul>
       <blockquote>
@@ -89,25 +93,37 @@
 
 <table width="100%" border="0">
   <tr>
-    <td width="33%" align="center">
-      <h3>🎓 E-Tutor Platform</h3>
-      <p>MERN tuition management system with role-based auth</p>
+    <td width="33%" align="center" valign="top">
+      <h3 align="center">🎓 E-Tutor Platform</h3>
+      <p align="center"><i>Tuition management system with authentication & roles.</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MERN-Stack-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Auth-JWT-orange?style=flat-square" />
+      </p>
       <a href="https://github.com/galibhub/e-tuitor-client">
-        <img src="https://img.shields.io/badge/View_Code-238636?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View_Code-238636?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-    <td width="33%" align="center">
-      <h3>🛒 Export–Import Sys</h3>
-      <p>Client-side export-import workflow manager</p>
+    <td width="33%" align="center" valign="top">
+      <h3 align="center">🛒 Export–Import Sys</h3>
+      <p align="center"><i>Client-side workflow automation for businesses.</i></p>
+      <p align="center">
+         <img src="https://img.shields.io/badge/React-JS-blue?style=flat-square" />
+         <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square" />
+      </p>
       <a href="https://github.com/galibhub/export-import-client">
-        <img src="https://img.shields.io/badge/View_Code-238636?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View_Code-238636?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-    <td width="33%" align="center">
-      <h3>🦸 Hero App</h3>
-      <p>JavaScript frontend concept project</p>
+    <td width="33%" align="center" valign="top">
+      <h3 align="center">🦸 Hero App</h3>
+      <p align="center"><i>Interactive JavaScript frontend concept project.</i></p>
+      <p align="center">
+         <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square" />
+         <img src="https://img.shields.io/badge/Frontend-UI-pink?style=flat-square" />
+      </p>
       <a href="https://github.com/galibhub/hero-app">
-        <img src="https://img.shields.io/badge/View_Code-238636?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View_Code-238636?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
