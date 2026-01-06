@@ -1,115 +1,131 @@
-<div align="center">
-  <img src="./banner.png" alt="Profile Banner" width="100%" style="border-radius: 10px;" />
+<!-- ======================= HERO BANNER ======================= -->
+<p align="center">
+  <img src="./banner.png" alt="GitHub Banner" width="100%" style="border-radius:16px;" />
+</p>
 
-  <h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Ibrahim+Ahmed+Galib;MERN+Stack+Web+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
-    </a>
-  </h1>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/ibrahim-ahmed-galib/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://github.com/galibhub" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a href="mailto:ibrahimgalib00@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-  </p>
-</div>
+<!-- ======================= ANIMATED NAME ======================= -->
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Ibrahim%20Ahmed%20Galib&fontSize=42&fontAlignY=35&animation=twinkling" />
+</h1>
 
-<br/>
+<h3 align="center">💻 MERN Stack Web Developer</h3>
 
-<table border="0" width="100%">
+<p align="center">
+  📍 Dhaka, Bangladesh &nbsp; • &nbsp;
+  📧 <a href="mailto:ibrahimgalib00@gmail.com">ibrahimgalib00@gmail.com</a>
+</p>
+
+<!-- ======================= TYPING ANIMATION ======================= -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=MERN+Stack+Web+Developer;Building+Scalable+Web+Apps;Backend+Focused+Engineer;Exploring+AI+%26+Machine+Learning" />
+  </a>
+</p>
+
+<!-- ======================= SOCIAL + VISITOR ======================= -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ibrahim-ahmed-galib/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/galibhub" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=galibhub&label=Profile%20Views&color=38BDF8&style=for-the-badge"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+<!-- ======================= ABOUT ======================= -->
+## 👨‍💻 About Me
+✨ **MERN Stack Web Developer** with a strong **Computer Science foundation**  
+✨ Passionate about **modern, scalable, production-ready applications**  
+✨ Improving **backend architecture** while exploring **AI & ML**
+
+> 💡 *Learning by building real-world systems, not just tutorials.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+<!-- ======================= EDUCATION ======================= -->
+## 🎓 Academic Background
+🎓 **BSc in Computer Science & Engineering**  
+🏫 *Daffodil International University*
+
+📚 Core Strengths:
+- C, C++
+- Java
+- Data Structures & Algorithms
+- Problem Solving
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+<!-- ======================= CURRENT WORK ======================= -->
+## 🔭 What I’m Doing Now
+- 🌱 Learning **Next.js**
+- 🛠 Building **Full-Stack MERN Applications**
+- ⚙ Working with **REST APIs & Databases**
+- 🧠 Exploring **AI & Machine Learning**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+<!-- ======================= TECH STACK ======================= -->
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,vercel&perline=7" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+<!-- ======================= PROJECTS ======================= -->
+## 🚀 Featured Projects
+
+<table width="100%">
   <tr>
-    <td width="55%" valign="top">
-      <h2>👨‍💻 About Me</h2>
-      <p>
-        I am a <b>Computer Science</b> graduate and a passionate <b>MERN Stack Developer</b> based in <b>Dhaka, Bangladesh</b>. I focus on building modern, production-ready web applications.
-      </p>
-      <ul>
-        <li>🔭 <b>Currently:</b> Building Full-Stack MERN Apps & Learning Next.js</li>
-        <li>🧠 <b>Exploring:</b> AI & Machine Learning</li>
-        <li>🎓 <b>Education:</b> BSc in CSE @ Daffodil International University</li>
-        <li>⚡ <b>Core:</b> C, C++, Java, DSA & Problem Solving</li>
-      </ul>
-      <blockquote>
-        <i>"Learning by building real projects — not just tutorials."</i>
-      </blockquote>
+    <td width="33%" align="center">
+      <h3>🎓 E-Tutor Platform</h3>
+      <p>MERN tuition management system with role-based auth</p>
+      <a href="https://github.com/galibhub/e-tuitor-client">🔗 View Code</a>
     </td>
-    <td width="45%" valign="center" align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=galibhub&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" width="100%" />
-      <br/><br/>
-      <img src="https://streak-stats.demolab.com/?user=galibhub&theme=tokyonight&hide_border=true&hide_title=true&fire=EB4888&ring=EB4888&currStreakLabel=EB4888" width="100%" />
+    <td width="33%" align="center">
+      <h3>🛒 Export–Import System</h3>
+      <p>Client-side export-import workflow manager</p>
+      <a href="https://github.com/galibhub/export-import-client">🔗 View Code</a>
+    </td>
+    <td width="33%" align="center">
+      <h3>🦸 Hero App</h3>
+      <p>JavaScript frontend concept project</p>
+      <a href="https://github.com/galibhub/hero-app">🔗 View Code</a>
     </td>
   </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
-<h2 align="center">📊 Activity Dashboard</h2>
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=galibhub&theme=tokyonight" width="100%" />
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=galibhub&theme=tokyonight&utcOffset=6" width="48%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=galibhub&theme=tokyonight" width="48%" />
-</div>
+<!-- ======================= ACTIVITY & CONTRIBUTION ======================= -->
+## 📊 Activity & Contributions
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=galibhub&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=galibhub&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-<h2 align="center">🛠️ Tech Arsenal</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,express,mongodb,firebase,java,c,git,github,vscode,vercel&perline=8" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galibhub&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=galibhub&theme=tokyonight" width="100%"/>
+</p>
 
-<h2>📌 Featured Projects</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
-<table width="100%" border="0">
-  <tr>
-    <td width="33%">
-      <h3 align="center">🎓 E-Tutor Platform</h3>
-      <p align="center">MERN tuition management with auth & roles.</p>
-      <p align="center">
-        <a href="https://github.com/galibhub/e-tuitor-client">
-          <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github" />
-        </a>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">🛒 Export-Import Sys</h3>
-      <p align="center">Workflow management for export businesses.</p>
-      <p align="center">
-        <a href="https://github.com/galibhub/export-import-client">
-          <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github" />
-        </a>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">🦸 Hero App</h3>
-      <p align="center">Frontend JS project demonstrating core concepts.</p>
-      <p align="center">
-        <a href="https://github.com/galibhub/hero-app">
-          <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- ======================= GOALS ======================= -->
+## 🎯 Goals
+- ✅ Become **job-ready MERN Developer**
+- 🚀 Build **scalable real-world systems**
+- 🧠 Improve **problem-solving & system design**
+- 🌱 Continuously learn modern web tech
 
-<br/>
-
-<h2 align="center">🐍 Contribution History</h2>
-<div align="center">
-  <img src="https://github.com/galibhub/galibhub/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
-  <p><i>“Consistency is more important than perfection. Keep building 🚀”</i></p>
-</div>
+<p align="center">
+  <i>“Consistency compounds over time. Keep building 🚀”</i>
+</p>
