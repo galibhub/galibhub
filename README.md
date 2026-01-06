@@ -69,13 +69,18 @@
 
 <!-- ======================= TECH STACK ======================= -->
 ## 🛠 Tech Stack
+<br/>
+<br/><h2 align="center">📊 Activity & Top Languages</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,vercel&perline=7" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galibhub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  
+  <br/><br/>
+  
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=galibhub&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  </a>
+</div><br/>
 <!-- ======================= PROJECTS ======================= -->
 ## 🚀 Featured Projects
 
