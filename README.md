@@ -32,58 +32,49 @@
   <img src="https://komarev.com/ghpvc/?username=galibhub&label=Profile%20Views&color=38BDF8&style=flat-square"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" width="100%"/>
+<br/>
+
+<h2 align="center">🚀 Quick Overview</h2>
 
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h2>👨‍💻 About Me</h2>
+      <h3>Hi, I'm Ibrahim Ahmed Galib 👋</h3>
       <p>
-        I am a <b>MERN Stack Web Developer</b> with a strong foundation in <b>Computer Science</b>. I am passionate about building clean, production-ready applications.
+        I am a <b>MERN Stack Developer</b> with a strong CS foundation. I specialize in building scalable digital experiences with the MERN stack.
       </p>
-      <ul>
-        <li>🔭 <b>Currently:</b> Building Full-Stack Apps & Learning Next.js</li>
-        <li>⚙️ <b>Backend:</b> Working with REST APIs & Database Design</li>
-        <li>🧠 <b>Interest:</b> Exploring AI & Machine Learning</li>
-      </ul>
-      <blockquote>
-        💡 <i>"Learning by building real-world systems."</i>
-      </blockquote>
+      <br/>
+      <p>
+        🔭 <b>Currently:</b> Engineering a large-scale MERN application.<br/>
+        🌱 <b>Learning:</b> TypeScript & Next.js for high performance.<br/>
+        ⚡ <b>Goal:</b> Building impactful, real-world solutions.
+      </p>
     </td>
-    <td width="45%" valign="top">
-      <h2>🎓 Education</h2>
-      <p>
-        <b>🎓 BSc in Computer Science & Eng.</b><br/>
-        <i>Daffodil International University</i>
-      </p>
-      <hr/>
-      <p><b>📚 Core Competencies:</b></p>
-      <p>
-        <code>C/C++</code> <code>Java</code><br/>
-        <code>Data Structures & Algo</code><br/>
-        <code>Problem Solving</code>
-      </p>
+    <td width="45%" valign="center" align="center">
+       <img src="https://github-readme-stats.vercel.app/api?username=galibhub&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" width="100%"/>
     </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" width="100%"/>
+<br/>
 
 <h2 align="center">🛠 Professional Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,nodejs,express,mongodb,firebase,c,java,git,github,vscode,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,nodejs,express,mongodb,firebase,git,github,vscode,postman,figma&theme=dark" />
 </div>
 
 <br/>
 
-<h2 align="center">📊 Activity & Languages</h2>
+<h2 align="center">📊 Activity & Top Languages</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galibhub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galibhub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="140" />
+  
   <br/><br/>
+  
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=galibhub&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=galibhub&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" />
   </a>
 </div>
 
@@ -131,8 +122,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" width="100%"/>
-
 <table width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
@@ -158,12 +147,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
-  
-  <p>
-    <i>“Consistency compounds over time. Keep building 🚀”</i>
-  </p>
-  
-  <p>
-    <b>© 2026 Ibrahim Ahmed Galib</b> • Built with ☕ and Code
-  </p>
+  <p><i>“Consistency compounds over time. Keep building 🚀”</i></p>
+  <p><b>© 2026 Ibrahim Ahmed Galib</b> • Built with ☕ and Code</p>
 </div>
