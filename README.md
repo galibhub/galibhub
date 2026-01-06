@@ -50,8 +50,10 @@
         ⚡ <b>Goal:</b> Building impactful, real-world solutions.
       </p>
     </td>
-    <td width="45%" valign="center" align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=galibhub&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" width="100%"/>
+   <td width="45%" valign="center" align="center">
+       <a href="https://github.com/galibhub">
+         <img src="https://github-readme-stats.vercel.app/api?username=galibhub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Galib's Stats" width="100%"/>
+       </a>
     </td>
   </tr>
 </table>
