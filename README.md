@@ -135,17 +135,35 @@
 
 <table width="100%" border="0">
   <tr>
-    <td>
-       <h3>🎯 Current Goals</h3>
+    <td width="50%" valign="top">
+       <h3>🎯 Career Objectives</h3>
        <ul>
          <li>✅ Become a <b>Job-Ready MERN Developer</b></li>
-         <li>🚀 Build <b>Scalable Real-World Systems</b></li>
-         <li>🌱 Master <b>System Design</b> patterns</li>
+         <li>🚀 Build <b>Scalable, Production-Grade Systems</b></li>
+         <li>💼 Contribute to <b>Open Source Projects</b></li>
+       </ul>
+    </td>
+    <td width="50%" valign="top">
+       <h3>🧠 Continuous Learning</h3>
+       <ul>
+         <li>🌱 Mastering <b>System Design & Architecture</b></li>
+         <li>🤖 Exploring <b>AI & Machine Learning</b> Fundamentals</li>
+         <li>⚡ Integrating <b>AI Models</b> into Web Applications</li>
        </ul>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <i>“Consistency compounds over time. Keep building 🚀”</i>
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+  
+  <p>
+    <i>“Consistency compounds over time. Keep building 🚀”</i>
+  </p>
+  
+  <p>
+    <b>© 2026 Ibrahim Ahmed Galib</b> • Built with ☕ and Code
+  </p>
+</div>
