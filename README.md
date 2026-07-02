@@ -123,14 +123,14 @@
       </p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3 align="center">🦸 Hero App</h3>
+      <h3 align="center">🦸 Green Nest</h3>
       <p align="center"><i>Interactive JavaScript frontend concept project.</i></p>
       <p align="center">
          <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square" />
          <img src="https://img.shields.io/badge/Frontend-UI-pink?style=flat-square" />
       </p>
       <p align="center">
-          <a href="https://github.com/galibhub/hero-app">
+          <a href="https://github.com/galibhub/green-nest">
             <img src="https://img.shields.io/badge/View_Code-238636?style=for-the-badge&logo=github&logoColor=white" />
           </a>
       </p>
