@@ -6,7 +6,7 @@
 <img src="./banner.png" alt="Ibrahim Ahmed Galib" width="100%" />
 
 <!-- ANIMATED HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0c2340,100:0d1117&height=160&section=header&text=Hi%2C%20I'm%20Galib%20%F0%9F%91%8B&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20CS%20Graduate%20%7C%20Problem%20Solver&descSize=18&descAlignY=80&descFontColor=94a3b8" alt="header wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0c2340,100:0d1117&height=160&section=header&text=Hi%2C%20I'm%20Galib%20%F0%9F%91%8B&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20AI Engineer%20%7C%20Problem%20Solver&descSize=18&descAlignY=80&descFontColor=94a3b8" alt="header wave" />
 
 <br/>
 
