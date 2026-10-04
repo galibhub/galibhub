@@ -1,3 +1,4 @@
+```markdown
 <!-- BANNER -->
 <img src="./banner.png" alt="Ibrahim Ahmed Galib" width="100%" />
 
@@ -60,6 +61,7 @@ I'm a passionate **Full Stack Developer** from **Dhaka, Bangladesh 🇧🇩**, d
 ![badge](https://img.shields.io/badge/🤖_Exploring-AI_&_ML-7c3aed?style=flat-square)
 
 </td>
+
 <td width="48%" valign="center" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=galibhub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94a3b8&count_private=true&hide=stars&rank_icon=github" width="100%" alt="GitHub Stats"/>
@@ -134,90 +136,145 @@ I'm a passionate **Full Stack Developer** from **Dhaka, Bangladesh 🇧🇩**, d
 
 ## 🚀 Featured Projects
 
-<table border="0" width="100%">
+<div align="center">
+
+<table width="100%" border="0" cellpadding="16" cellspacing="0">
 <tr>
 
-<!-- Project 1 -->
-<td width="33%" valign="top" align="center">
+<!-- Project 01 -->
+<td width="33%" valign="top">
 
-### 🎓 E-Tutor Platform
+<div align="center">
 
-<img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/01-FULL--STACK-38BDF8?style=for-the-badge&labelColor=0D1117" />
 
-> *Full-stack tuition management platform with role-based access control*
+<h3>🎓 E-Tutor Platform</h3>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+<p>
+A scalable tuition management platform connecting students and tutors through a structured digital workflow.
+</p>
 
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+<br/><br/>
+
+🔐 JWT Authentication  
 <br/>
-
-- 🔐 JWT Auth & Role Management
-- 👨‍🎓 Student–Teacher Workflow
-- 📱 Fully Responsive UI
-
+👨‍🎓 Student–Tutor Workflow  
 <br/>
+📱 Responsive Interface  
+<br/>
+⚙️ Role-Based Access Control
 
-[![Source Code](https://img.shields.io/badge/Source_Code-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galibhub/e-tuitor-client)
+<br/><br/>
+
+<a href="https://github.com/galibhub/e-tuitor-client">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
 
-<!-- Project 2 -->
-<td width="33%" valign="top" align="center">
+<!-- Project 02 -->
+<td width="33%" valign="top">
 
-### 🛒 Export–Import System
+<div align="center">
 
-<img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/02-BUSINESS%20SYSTEM-38BDF8?style=for-the-badge&labelColor=0D1117" />
 
-> *Business workflow automation system for client-side management*
+<h3>📦 Export–Import System</h3>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<p>
+A business workflow platform designed to simplify product management, operational processes, and real-time business tracking.
+</p>
 
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<br/><br/>
+
+📦 Product Management  
 <br/>
-
-- 📦 Product Management
-- 🔄 Business Workflow Automation
-- 📊 Real-time Data Dashboard
-
+🔄 Workflow Automation  
 <br/>
+📊 Business Dashboard  
+<br/>
+☁️ Firebase Integration
 
-[![Source Code](https://img.shields.io/badge/Source_Code-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galibhub/export-import-client)
+<br/><br/>
+
+<a href="https://github.com/galibhub/export-import-client">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
 
-<!-- Project 3 -->
-<td width="33%" valign="top" align="center">
+<!-- Project 03 -->
+<td width="33%" valign="top">
 
-### 🌿 YouTube Sentiment Insights
+<div align="center">
 
-<img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/03-MACHINE%20LEARNING-38BDF8?style=for-the-badge&labelColor=0D1117" />
 
-> *ML-powered Chrome Extension for real-time YouTube audience sentiment analysis*
+<h3>🤖 YouTube Sentiment Insights</h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-00A67E?style=flat-square&logo=lightgbm&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p>
+An ML-powered Chrome Extension that analyzes YouTube comments and transforms audience reactions into actionable sentiment insights.
+</p>
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LightGBM-00A67E?style=flat-square&logo=lightgbm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&logo=googletranslate&logoColor=white"/>
+
+<br/><br/>
+
+🧠 TF-IDF + LightGBM  
 <br/>
-
-- 🤖 ML-Based Sentiment Analysis
-- 📊 Interactive Analytics Dashboard
-- 💬 Automated YouTube Comment Analysis
-
+💬 Automated Comment Collection  
 <br/>
+📊 Interactive Sentiment Dashboard  
+<br/>
+🎯 84.75% Test Accuracy
 
-[![Source Code](https://img.shields.io/badge/Source_Code-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galibhub/sentiment-analysis)
+<br/><br/>
 
-[![Demo Video](https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1BI5_D8ACGUpPkHf5ZndWbBBsWgWBs5-i/view)
+<a href="https://github.com/galibhub/sentiment-analysis">
+<img src="https://img.shields.io/badge/SOURCE_CODE-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://drive.google.com/file/d/1BI5_D8ACGUpPkHf5ZndWbBBsWgWBs5-i/view">
+<img src="https://img.shields.io/badge/DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
 
 </tr>
 </table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/galibhub?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" />
+</a>
+
+</div>
 
 ---
 
@@ -233,3 +290,4 @@ I'm a passionate **Full Stack Developer** from **Dhaka, Bangladesh 🇧🇩**, d
 **© 2026 Ibrahim Ahmed Galib** &nbsp;·&nbsp; Built with ☕ & Code &nbsp;·&nbsp; 📍 Dhaka, Bangladesh
 
 </div>
+```
