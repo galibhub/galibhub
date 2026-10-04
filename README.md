@@ -1,4 +1,3 @@
-```markdown
 <!-- BANNER -->
 <img src="./banner.png" alt="Ibrahim Ahmed Galib" width="100%" />
 
@@ -35,7 +34,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑💻 About Me
 
 <table border="0" cellpadding="12" width="100%">
 <tr>
@@ -163,7 +162,7 @@ A scalable tuition management platform connecting students and tutors through a 
 
 🔐 JWT Authentication  
 <br/>
-👨‍🎓 Student–Tutor Workflow  
+👨🎓 Student–Tutor Workflow  
 <br/>
 📱 Responsive Interface  
 <br/>
@@ -290,4 +289,3 @@ An ML-powered Chrome Extension that analyzes YouTube comments and transforms aud
 **© 2026 Ibrahim Ahmed Galib** &nbsp;·&nbsp; Built with ☕ & Code &nbsp;·&nbsp; 📍 Dhaka, Bangladesh
 
 </div>
-```
