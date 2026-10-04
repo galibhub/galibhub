@@ -191,25 +191,28 @@ I'm a passionate **Full Stack Developer** from **Dhaka, Bangladesh 🇧🇩**, d
 <!-- Project 3 -->
 <td width="33%" valign="top" align="center">
 
-### 🌿 Green Nest
+### 🌿 YouTube Sentiment Insights
 
-<img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&logo=googlechrome&logoColor=white"/>
 
-> *Modern interactive frontend concept with smooth UI/UX*
+> *ML-powered Chrome Extension for real-time YouTube audience sentiment analysis*
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-00A67E?style=flat-square&logo=lightgbm&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 <br/>
 
-- ✨ Smooth UI Animations
-- 🎨 Modern Design System
-- 📱 Mobile-First Approach
+- 🤖 ML-Based Sentiment Analysis
+- 📊 Interactive Analytics Dashboard
+- 💬 Automated YouTube Comment Analysis
 
 <br/>
 
-[![Source Code](https://img.shields.io/badge/Source_Code-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galibhub/green-nest)
+[![Source Code](https://img.shields.io/badge/Source_Code-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galibhub/sentiment-analysis)
+
+[![Demo Video](https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1BI5_D8ACGUpPkHf5ZndWbBBsWgWBs5-i/view)
 
 </td>
 
